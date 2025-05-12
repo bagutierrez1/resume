@@ -1,0 +1,10 @@
+# Ignore LaTeX build files recursively
+**/*.aux
+**/*.log
+**/*.out
+**/*.fls
+**/*.fdb_latexmk
+**/*.synctex.gz
+
+# ignore PDFs across the project
+**/*.pdf
